@@ -32,7 +32,6 @@ set(MODULE_SRC
     ${CMAKE_CURRENT_LIST_DIR}/itestcasecontext.h
     ${CMAKE_CURRENT_LIST_DIR}/iautobotconfiguration.h
     ${CMAKE_CURRENT_LIST_DIR}/iautobotscriptsrepository.h
-    ${CMAKE_CURRENT_LIST_DIR}/autobotutils.h
 
     ${CMAKE_CURRENT_LIST_DIR}/internal/autobot.cpp
     ${CMAKE_CURRENT_LIST_DIR}/internal/autobot.h
